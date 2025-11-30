@@ -1,0 +1,15 @@
+.model{
+  font-family: Montserrat;
+  margin-left: 60px;
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.order{
+  font-family: Montserrat;
+  margin-left: 18px;
+  margin-top: 10px;
+}
+.touchless:hover{
+  text-decoration: underline;
+}
