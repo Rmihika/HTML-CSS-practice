@@ -10,7 +10,10 @@ It includes basic web pages, layouts, and styling experiments to strengthen my f
 - `website.html` → Practice website structure
 - `buttons.html` → Button styling examples
 - `text.html` → Text formatting and typography
-
+- `youtube.html` → Youtube clone
+- `img-practice.html` → Structuring images
+- `div-prac.html` → Practicing div for creating cards
+- `display-practice.html` → Practice of block,inline & inline-block displays.
 ---
 
 ## 🎯 Goals
